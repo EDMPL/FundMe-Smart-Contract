@@ -22,13 +22,13 @@ Deployed Smart Contract using forge: https://sepolia.etherscan.io/address/0xb07E
 
 <b>
 
-Unit
+1. Unit
 
-Integration
+2. Integration
 
-Forked
+3. Forked
 
-Staging
+4. Staging
 </b>
 
 This repo cover #1 and #3.
