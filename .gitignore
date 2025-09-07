@@ -1,2 +1,10 @@
 .DS_Store
 .env
+
+/docs
+
+cache/
+out/
+
+broadcast/
+zkout/

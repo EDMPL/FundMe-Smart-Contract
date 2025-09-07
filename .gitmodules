@@ -1,3 +1,9 @@
 [submodule "Foundry/lib/foundry-devops"]
 	path = Foundry/lib/foundry-devops
 	url = https://github.com/cyfrin/foundry-devops
+[submodule "Foundry/lib/chainlink-brownie-contracts"]
+	path = Foundry/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
+[submodule "Foundry/lib/forge-std"]
+	path = Foundry/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
